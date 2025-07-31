@@ -1,4 +1,4 @@
-Hieveryone! My name is Ali and I am pleased that you are looking into my GitHub page!
+Hi everyone! My name is Ali and I am pleased that you are looking into my GitHub page!
 
 ## 🔬 Interests
 - Remote Sensing & Geospatial AI
