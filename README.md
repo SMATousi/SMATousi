@@ -5,7 +5,7 @@
 - Generative AI & Quantum Computing
 
 ## 📫 Connect
-[![[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/seyed-mohamad-ali-tousi-883501189/)]
+[![[LinkedIn](https://www.linkedin.com/in/seyed-mohamad-ali-tousi-883501189/)(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mohamadali.tousi@gmail.com)
 
 ## 📊 GitHub Stats
