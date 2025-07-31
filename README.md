@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🔬 Interests
+- Remote Sensing & Geospatial AI
+- Image Segmentation & Topology Preservation
+- Graph Neural Networks in Vision
+- Generative AI & Quantum Computing
 
-<!--
-**SMATousi/SMATousi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/seyed-mohamad-ali-tousi-883501189/)])
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mohamadali.tousi@gmail.com)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smatousi&show_icons=true&theme=default&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smatousi&layout=compact&hide=html,css)
+
+## 🛠 My Skills
+`Python`, `PyTorch`, `OpenCV`, `MMCV`, `Docker`, `Git`, `QGIS`, `Linux`, and `MATLAB`
