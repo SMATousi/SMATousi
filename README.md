@@ -6,7 +6,6 @@
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seyed-mohamad-ali-tousi-883501189/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mohamadali.tousi@gmail.com)
 
 ## 📊 GitHub Stats
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smatousi&show_icons=true&theme=default&count_private=true)
