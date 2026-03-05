@@ -19,5 +19,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smatousi)
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=smatousi)
+
 ## 🛠 My Skills
 `Python`, `PyTorch`, `OpenCV`, `LangChain`, `LangGraph` , `Docker`, `Git`, `QGIS`, `QisKit`, `Linux`, and `MATLAB`
