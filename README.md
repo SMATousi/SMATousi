@@ -9,11 +9,12 @@
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seyed-mohamad-ali-tousi-883501189/)
 
-## 📊 GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smatousi&show_icons=true&theme=default&count_private=true)
+## 📊 GitHub Status
+![Followers](https://img.shields.io/github/followers/smatousi?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/smatousi?affiliations=owner%2Ccollaborator&label=Stars&style=social)
 
-## 🔧 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smatousi&layout=compact&hide=html,css)
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smatousi)
 
 ## 🛠 My Skills
 `Python`, `PyTorch`, `OpenCV`, `LangChain`, `LangGraph` , `Docker`, `Git`, `QGIS`, `QisKit`, `Linux`, and `MATLAB`
