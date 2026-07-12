@@ -14,4 +14,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smatousi)
 
 ## 🛠 My Skills
-`Python`, `PyTorch`, `OpenCV`, `LangChain`, `LangGraph` , `Docker`, `Git`, `QGIS`, `QisKit`, `Linux`, and `MATLAB`
+`Python`, `PyTorch`, `OpenCV` , `Docker`, `Git`, `QGIS`, `QisKit`, `Linux`, and `MATLAB`
