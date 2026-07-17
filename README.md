@@ -4,6 +4,7 @@
 - Remote Sensing & Geospatial AI
 - Weak Supervision
 - Quantum Computation and Information
+- Quantum Error Mitigation
 - Large Language Models and AI Agents
 
 ## 📫 Connect
